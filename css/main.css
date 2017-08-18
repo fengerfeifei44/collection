@@ -8,8 +8,8 @@ ul,li{
     padding: 0;
     list-style: none;
 }
-input,option{
-    background: transparent;
+input,option,select{
+    background: transparent!important;
 }
 textarea{
     max-height: 100px;
@@ -59,6 +59,9 @@ p{
     background: rgb(129, 172, 33);
     border-radius: 8px;
     -webkit-border-radius: 8px;
+}
+.red{
+    color: red;
 }
 /*next*/
 .padding .serial{
