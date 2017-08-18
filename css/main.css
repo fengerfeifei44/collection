@@ -9,7 +9,7 @@ ul,li{
     list-style: none;
 }
 input,option,select{
-    background: transparent!important;
+    background: #fff!important;
 }
 textarea{
     max-height: 100px;
